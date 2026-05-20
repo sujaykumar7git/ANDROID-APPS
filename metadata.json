@@ -1,0 +1,6 @@
+{
+  "name": "Semaglutide Tracker & Guide",
+  "description": "An Android-themed tracker for Semaglutide (Noveltreat) injections, weekly dosage schedules, side effects, water balance, and smart personalized AI dietary and safety insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
